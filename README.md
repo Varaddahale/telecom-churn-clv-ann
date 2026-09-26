@@ -1,5 +1,5 @@
 # 📊 Telecom Customer Churn Prediction & CLV Analysis
-
+🔗 **[Try the live app here](https://telecom-churn-clv-ann-yovsldvytlkjbx6dv2jwjt.streamlit.app)**
 An end-to-end machine learning and deep learning project that predicts telecom customer churn using an Artificial Neural Network (ANN), and combines churn probability with Customer Lifetime Value (CLV) to create a business-oriented customer retention prioritization system.
 
 ## 🎯 Project Overview
